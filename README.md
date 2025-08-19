@@ -1,5 +1,7 @@
 ## Hi, I'm Mahdi 👋
 
+- 🌱 I’m currently learning Advanced ML, Adavanced Python and MLOps 
+
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/mahdi-mohseni-236226184/)
 [Email](mailto:mahdi.22.mohseni@gmail.com)
