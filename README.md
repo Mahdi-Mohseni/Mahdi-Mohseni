@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Mahdi 👋
+
+- 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/mahdi-mohseni-236226184/)
+[Email](mailto:mahdi.22.mohseni@gmail.com)
+
 
 <!--
 **Mahdi-Mohseni/Mahdi-Mohseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
